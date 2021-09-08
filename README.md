@@ -49,7 +49,6 @@ If you are not **willing to learn**, no one can help you. If you are **Determine
 ---
 ## Data Structures
 #### The following implementation of Sqrt Tree can perform the following operations: build in O(n⋅loglogn), answer queries in O(1) and update an element in O(n−−√).
-##### Link for [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
 
 ```
 SqrtTreeItem op(const SqrtTreeItem &a, const SqrtTreeItem &b);
@@ -208,6 +207,7 @@ public:
 
 
 ```
+##### Link for [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
 
 
 
