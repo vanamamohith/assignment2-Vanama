@@ -30,8 +30,13 @@ There's no other city on the *planet* with an energy that can compete with New Y
 ---
 
 ## Food
-#### Food is usually of plant, animal or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. Here we provide different types of food you can find the menu below.
-
+#### Food is usually of plant, animal or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. Here we provide different types of food, you can find the menu below.
+|   Food   |   Location   |   Cost   |
+| -------- | ------------ | -------- |
+|   Taco   |  Taco Bell   |   $10    |
+|  Pizza   | Pizza Ranch  |   $15    |
+|  Burger  | Burger King  |   $11    |
+| Nuggets  |  Mc Donals   |   $12    |
 
 
 
