@@ -16,5 +16,11 @@ There's no other city on the *planet* with an energy that can compete with New Y
       1. If available book the cab.
       2. Once Cab driver reached to the airport get into it.
       3. Go to Statue of Liberty.
+---
+* Reached Statue of liberty
+  * Check the entrance fee according to your age.
+    * If your age is from 4 to 12 then $5 Entrance fee.
+    * If your age is 13 and up then $12 Entrance fee.
+    * If your age is over 62 then $10 Entrance fee.
 
 
