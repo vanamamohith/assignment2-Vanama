@@ -47,7 +47,8 @@ If you are not **willing to learn**, no one can help you. If you are **Determine
 **Fantasy** is hardly an escape from reality. It's a way of understanding it. -*Lloyd Alexander*
 
 ---
-[Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+## Data Structures
+##### Link for Sqrt Tree  [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
 
 ```
 SqrtTreeItem op(const SqrtTreeItem &a, const SqrtTreeItem &b);
