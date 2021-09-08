@@ -208,6 +208,7 @@ public:
 
 ```
 ##### Link for [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+---
 
 
 
