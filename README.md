@@ -5,8 +5,8 @@ There's no other city on the *planet* with an energy that can compete with New Y
 ---
 ## Direction from Maryville to Statue of Liberty
 1. Drive to the Kansas Airport 
-   * hello
-   * he
+   1. hello
+   2. he
 2. ddaefsf
 
 
