@@ -48,7 +48,7 @@ If you are not **willing to learn**, no one can help you. If you are **Determine
 
 ---
 ## Data Structures
-##### Link for Sqrt Tree  [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+##### Link for [Sqrt Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html)
 
 ```
 SqrtTreeItem op(const SqrtTreeItem &a, const SqrtTreeItem &b);
