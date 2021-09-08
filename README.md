@@ -38,5 +38,15 @@ There's no other city on the *planet* with an energy that can compete with New Y
 |  Burger  | Burger King  |   $11    |
 | Nuggets  |  Mc Donals   |   $12    |
 
+---
+## Pithy Quotes
+**Overnight Success** is almost a myth. Half of this industry is luck, and half is the refusal to quit -*Victoria schwab*
+
+If you are not **willing to learn**, no one can help you. If you are **Determined to learn**, no one can stop you. - *Zig Ziglar*
+
+**Fantasy** is hardly an escape from reality. It's a way of understanding it. -*Lloyd Alexander*
+
+
+
 
 
