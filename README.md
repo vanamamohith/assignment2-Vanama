@@ -40,6 +40,7 @@ There's no other city on the *planet* with an energy that can compete with New Y
 
 ---
 ~~Opps, didn’t mean to do this.~~
+$f(x) = x^2$
 ## Pithy Quotes
 **Overnight Success** is almost a myth. Half of this industry is luck, and half is the refusal to quit -*Victoria schwab*
 
