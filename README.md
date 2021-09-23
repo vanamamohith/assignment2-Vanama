@@ -39,6 +39,7 @@ There's no other city on the *planet* with an energy that can compete with New Y
 | Nuggets  |  Mc Donals   |   $12    |
 
 ---
+~~Opps, didn’t mean to do this.~~
 ## Pithy Quotes
 **Overnight Success** is almost a myth. Half of this industry is luck, and half is the refusal to quit -*Victoria schwab*
 
